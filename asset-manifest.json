@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/khumbulani-react-app/static/css/main.073c9b0a.css",
-    "main.js": "/khumbulani-react-app/static/js/main.cfcdc346.js",
+    "main.js": "/khumbulani-react-app/static/js/main.ca17d1b8.js",
     "static/js/787.5d25c75c.chunk.js": "/khumbulani-react-app/static/js/787.5d25c75c.chunk.js",
     "static/media/logo.svg": "/khumbulani-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/khumbulani-react-app/index.html",
     "main.073c9b0a.css.map": "/khumbulani-react-app/static/css/main.073c9b0a.css.map",
-    "main.cfcdc346.js.map": "/khumbulani-react-app/static/js/main.cfcdc346.js.map",
+    "main.ca17d1b8.js.map": "/khumbulani-react-app/static/js/main.ca17d1b8.js.map",
     "787.5d25c75c.chunk.js.map": "/khumbulani-react-app/static/js/787.5d25c75c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cfcdc346.js"
+    "static/js/main.ca17d1b8.js"
   ]
 }
